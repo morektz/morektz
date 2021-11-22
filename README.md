@@ -1,3 +1,3 @@
 
 
-![https://morektz.softr.app/](imgs/morektz.png)
+[![](imgs/morektz.png "morektz")](https://morektz.softr.app/)
