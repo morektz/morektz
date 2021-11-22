@@ -1,6 +1,5 @@
 | | | 
 | --- | --- | 
-| [![](imgs/morektz.png "morektz")](https://morektz.softr.app/) |  ⛓️ Blockchain Dev | 
-
+| [![](imgs/morektz.png "morektz")](https://morektz.softr.app/) |  ⛓️ Blockchain Dev <p>  | 
 
 
