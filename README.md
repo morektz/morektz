@@ -1,5 +1,5 @@
 | | | 
 | --- | --- | 
-| [![](imgs/morektz.png "morektz")](https://morektz.softr.app/) |  ⛓️ Blockchain Dev <p> kasks  | 
+| [![](imgs/morektzs.png "morektz")](https://morektz.softr.app/) |  ⛓️ Cryptoz <p> 🎮 Gaming  | 
 
 
