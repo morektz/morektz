@@ -2,13 +2,8 @@
 
 <p style="text-align: center;">
 
-| | | 
-| -- | -- |
-|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morektz&show_icons=true&theme=radical)](https://www.bit.ly/morektz)|![](https://komarev.com/ghpvc/?username=morektz&color=blueviolet)| ![](imgs/mm.gif) 
-![](imgs/mm.gif)
-
 <p align="center">
-  <img src=https://github-readme-stats.vercel.app/api?username=morektz&show_icons=true&theme=radical alt="Morektz"/><img src=/imgs/mm.gif><img src=https://github.com/morektz/morektz/blob/main/imgs/mm.gif>
+  <img src=https://github-readme-stats.vercel.app/api?username=morektz&show_icons=true&theme=radical alt="Morektz"/><img src=/imgs/mm.gif>
   <img src=https://komarev.com/ghpvc/?username=morektz&color=blueviolet alt="Morektz"/>
   
 </p>
