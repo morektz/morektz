@@ -5,6 +5,6 @@
 <p align="center"><a href="https://bit.ly/morektz">
   <img src=https://github-readme-stats.vercel.app/api?username=morektz&show_icons=true&theme=radical alt="Morektz"/><img src=/imgs/mm.gif/></a>
 </p>
-<p align="center">
-<img src=https://komarev.com/ghpvc/?username=morektz&color=blueviolet alt="Morektz"/>
+<p align="center"><a href="https://bit.ly/morektz">
+<img src=https://komarev.com/ghpvc/?username=morektz&color=blueviolet alt="Morektz"/></a>
 </p>
