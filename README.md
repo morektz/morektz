@@ -8,5 +8,8 @@
 
 </p>
 
+<p style="text-align: center;">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morektz&show_icons=true&theme=radical)](https://www.bit.ly/morektz)
+
+</p>
