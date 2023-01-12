@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://bit.ly/morektz" target="_blank">
-  <img src=/imgs/mm.gif/><img src=/imgs/mm.gif/><img src=/imgs/mm.gif/><img src=/imgs/mm.gif/><img src=/imgs/mm.gif/>
+  <img src=/imgs/mm.gif/><img src=/imgs/mm.gif/><img src=/imgs/mm.gif/><img src=/imgs/mm.gif/>
   </a>
 </p>
 <p align="center"><a href="https://bit.ly/morektz" target="_blank">
